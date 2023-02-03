@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/drawable/gradient_toolbar.xml" value="0.1095" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/drawable/login_shape_gradient.xml" value="0.118" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_choose_delivery.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_completed_orders.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_home_categories_adapter.xml" value="0.18" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_new_order_recycler_adapter.xml" value="0.2" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_new_orders.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_new_pick_and_drop_adapter.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_new_pick_and_drop_orders.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_new_pick_order_details.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_order_details.xml" value="0.22" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_order_details_list_adapter.xml" value="0.2" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_p_ick_drop_pick_up_list_adapter.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_payment_via_adapter.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pick_and_drop_dash_adapter.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pick_and_drop_dash_board.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pick_and_drop_pick_up_l_ist.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pick_up_completed_order.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pick_up_completed_order_adapter.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pick_up_order_details.xml" value="0.2" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pick_up_order_pick_up_details.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_pickup_order.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/activity_wallet_amont_transfer.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.1921875" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/fragment_cod_bottom_sheet.xml" value="0.18" />
+        <entry key="..\:/Android Projects/CM-Grocery Delivery/app/src/main/res/layout/fragment_pick_drop_pay_bottom_sheet.xml" value="0.1921875" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/drawable/ic_circle_green.xml" value="0.1555" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/drawable/ic_circle_red.xml" value="0.1555" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/drawable/ic_settings.xml" value="0.1555" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/drawable/select_calender_bg.xml" value="0.1555" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/drawable/switch_thumb.xml" value="0.1555" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/drawable/switch_track.xml" value="0.1555" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_choose_delivery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_completed_orders.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_home_categories_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_main.xml" value="0.24537037037037038" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_new_order_recycler_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_order_details.xml" value="0.24537037037037038" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_pick_up_order_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_reports.xml" value="0.264" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_shifts.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/fragment_pick_drop_pay_bottom_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/reports_list.xml" value="0.253125" />
+        <entry key="..\:/Santhosh Projects/banu_mart_delivery/app/src/main/res/layout/shift_list.xml" value="0.253125" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/drawable/login_shape_gradient.xml" value="0.126" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_choose_delivery.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_completed_orders.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_new_orders.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_pick_up_order_details.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_pick_up_order_pick_up_details.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_pickup_order.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/activity_wallet_amont_transfer.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/fragment_cod_bottom_sheet.xml" value="0.1921875" />
+        <entry key="..\:/banu_mart_delivery/app/src/main/res/layout/fragment_pick_drop_pay_bottom_sheet.xml" value="0.1921875" />
+        <entry key="..\:/cm_groccy_delivery_boy/app/src/main/res/layout/activity_main.xml" value="0.18888888888888888" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

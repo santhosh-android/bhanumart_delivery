@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205782269823",
+    "project_id": "bhanumart-delivery-boy",
+    "storage_bucket": "bhanumart-delivery-boy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205782269823:android:9a91aa67cf88bedbd5e44a",
+        "android_client_info": {
+          "package_name": "com.bhanu_delivery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205782269823-btcdk0uvvl4ihh1ki7nghj3rsmvoo80o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdKkX1rseQPlLFecj8BoBhzV00XH1zcM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205782269823-btcdk0uvvl4ihh1ki7nghj3rsmvoo80o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

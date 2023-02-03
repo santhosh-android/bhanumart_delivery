@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Bhanu Mart-Delivery Boy</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_colon">:</string>
+    <string name="order_id">Order Id</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="accept">ACCEPT</string>
+    <string name="santhosh">Santhosh</string>
+    <string name="_123456789">123456789</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="dwarakanagar">Dwarakanagar</string>
+    <string name="order_details">Order Details</string>
+    <string name="cancel">CANCEL</string>
+    <string name="cash">cash</string>
+    <string name="order_delivered">ORDER DELIVERED</string>
+    <string name="pickup_order">PICKUP ORDER</string>
+    <string name="collect_cash">COLLECT CASH</string>
+    <string name="pickup_orders">PickUp Orders</string>
+    <string name="user_name">Enter Number</string>
+    <string name="password">Password</string>
+    <string name="cod">COD</string>
+    <string name="online">ONLINE</string>
+    <string name="new_orders">New Orders</string>
+    <string name="cash_payment">CASH PAYMENT</string>
+    <string name="type_comments">Type Comments</string>
+    <string name="submit_comments">Order Complete</string>
+    <string name="type_comments_here">Type Comments here</string>
+    <string name="submit">SUBMIT</string>
+    <string name="completed_orders">Completed Orders</string>
+    <string name="no_pickup_orders_found">No PickUp Orders</string>
+    <string name="tool_home">CM-Groccy Delivery</string>
+    <string name="no_orders_tv">No New Orders</string>
+    <string name="date_amp_time"><![CDATA[Date & Time]]></string>
+    <string name="payment_option">Payment Option</string>
+    <string name="payment_status">Payment Remarks</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="normal_delivery">Normal Delivery</string>
+    <string name="pickup_and_drop">PickUp and Drop</string>
+    <string name="choose_delivery_type">Choose Delivery Type</string>
+    <string name="vendor_deatails">Vendor Details</string>
+    <string name="pickup_address">Pickup Address</string>
+    <string name="order_description">Order Description</string>
+    <string name="wallet">WALLET BALANCE</string>
+    <string name="transfer_money">TRANSFER MONEY</string>
+    <string name="enter_amount_to_transfer">Enter Amount to transfer</string>
+    <string name="send_money">SEND MONEY</string>
+    <string name="confirm_delivery">CONFIRM DELIVERY</string>
+    <string name="enter_collected_amount">Enter Collected Amount</string>
+    <string name="choose_payment_type">Choose Payment Type</string>
+    <string name="select_payment_type">Select Payment Type</string>
+</resources>
